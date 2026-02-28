@@ -6,4 +6,4 @@
 - **Upload extensions**: all
 - **Concurrency**: auto workers
 - **Run**: #21
-- **Status**: 🔄 Crawling in progress…
+- **Status**: ✅ Crawl complete
